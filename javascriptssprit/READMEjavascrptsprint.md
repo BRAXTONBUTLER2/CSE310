@@ -42,3 +42,16 @@ https://www.youtube.com/watch?v=YyxliogSwrM
 - Being able to remove completed taks
 - a counter for how many uncomplted ones remain
 - A counter for how many tasks you have completed
+
+My total time for this project
+week 1
+
+Monday - 3 hours started researching project as well as made the file,
+wednesday- 3 hours, got the base code down for the website to be up, and started working on java
+friday- 2 hours, Started style sheet as well as worked on the code and completed the add button to work
+saturday -3 Worked on getting the search fuction and using librarys 
+
+week 2 
+
+monday- 3 finished coding and debugging, wrote the readme file and recorded video
+saturday- 1 hour last final check for everything, rerecorded video
