@@ -1,0 +1,15 @@
+C:\Users\grayt\Desktop\CSE310\CSE310Game\bin\Debug\net9.0\CSE310Game.exe
+C:\Users\grayt\Desktop\CSE310\CSE310Game\bin\Debug\net9.0\CSE310Game.deps.json
+C:\Users\grayt\Desktop\CSE310\CSE310Game\bin\Debug\net9.0\CSE310Game.runtimeconfig.json
+C:\Users\grayt\Desktop\CSE310\CSE310Game\bin\Debug\net9.0\CSE310Game.dll
+C:\Users\grayt\Desktop\CSE310\CSE310Game\bin\Debug\net9.0\CSE310Game.pdb
+C:\Users\grayt\Desktop\CSE310\CSE310Game\obj\Debug\net9.0\CSE310Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grayt\Desktop\CSE310\CSE310Game\obj\Debug\net9.0\CSE310Game.AssemblyInfoInputs.cache
+C:\Users\grayt\Desktop\CSE310\CSE310Game\obj\Debug\net9.0\CSE310Game.AssemblyInfo.cs
+C:\Users\grayt\Desktop\CSE310\CSE310Game\obj\Debug\net9.0\CSE310Game.csproj.CoreCompileInputs.cache
+C:\Users\grayt\Desktop\CSE310\CSE310Game\obj\Debug\net9.0\CSE310Game.sourcelink.json
+C:\Users\grayt\Desktop\CSE310\CSE310Game\obj\Debug\net9.0\CSE310Game.dll
+C:\Users\grayt\Desktop\CSE310\CSE310Game\obj\Debug\net9.0\refint\CSE310Game.dll
+C:\Users\grayt\Desktop\CSE310\CSE310Game\obj\Debug\net9.0\CSE310Game.pdb
+C:\Users\grayt\Desktop\CSE310\CSE310Game\obj\Debug\net9.0\CSE310Game.genruntimeconfig.cache
+C:\Users\grayt\Desktop\CSE310\CSE310Game\obj\Debug\net9.0\ref\CSE310Game.dll
