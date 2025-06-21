@@ -1,0 +1,35 @@
+# Overview
+
+{Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+
+{Provide a description the game that you wrote. Describe how to play your game.}
+my game is a simple take on the popular flappy bird game, in my game you have to jump or "flap" through moving green pipes to see the highest score you can get
+
+{Describe your purpose for writing this software.}
+\I had never used python to code a game, and wanted to use the arcade feature and teach myself how to use it
+
+{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
+
+[Software Demo Video](https://youtu.be/0n2h9x3Krp8)
+
+# Development Environment
+
+{Describe the tools that you used to develop the software}
+python
+python arcade
+
+{Describe the programming language that you used and any libraries.}
+python
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+* [python arcade]https://api.arcade.academy/en/stable/)
+* [geeksforgeeks](https://www.geeksforgeeks.org/python/create-a-2d-game-with-python-and-the-arcade-library/)
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+* Item 1 I would love to add cutom animation and better looking sprites
+* Item 2 add a highscore feature
+* Item 3 add more sound affects as th ones in the game can get repetative
