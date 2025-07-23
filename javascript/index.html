@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Movie Recommendation App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎬 Movie Recommender</h1>
+    <p>Select one or more genres:</p>
+    <div class="checkboxes">
+      <label><input type="checkbox" value="Action" class="genre-box"> Action</label>
+      <label><input type="checkbox" value="Comedy" class="genre-box"> Comedy</label>
+      <label><input type="checkbox" value="Horror" class="genre-box"> Horror</label>
+      <label><input type="checkbox" value="Drama" class="genre-box"> Drama</label>
+      <label><input type="checkbox" value="Sci-Fi" class="genre-box"> Sci-Fi</label>
+    </div>
+    <button id="recommendBtn">🎥 Recommend Movies</button>
+    <div id="results"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
